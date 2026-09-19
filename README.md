@@ -9,7 +9,7 @@ I build clean, responsive web and mobile apps end to end — from the database t
 - 📫 **hannahtano05@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-grace-tano/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=flat&logo=vercel&logoColor=white)](https://hannahtano.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=flat&logo=vercel&logoColor=white)](https://hannahtano-v2.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hannahtano05@gmail.com)
 
 ## 🛠️ Tech Stack
