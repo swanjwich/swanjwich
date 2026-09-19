@@ -21,7 +21,13 @@ I build clean, responsive web and mobile apps end to end — from the database t
 **Data** — MySQL · SQL Server · SQLite · Supabase  
 **Tools** — Git · GitHub · Vercel · Netlify  
 
-## 📊 GitHub Stats
+---
 
-![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanjwich&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swanjwich&theme=shadow_blue&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
+<div align="center">
+
+*Always learning, always building.* ✨
+**Open to new opportunities — let's connect!**
+
+![Profile views](https://komarev.com/ghpvc/?username=swanjwich&color=38BDF8&style=flat&label=Profile+views)
+
+</div>
